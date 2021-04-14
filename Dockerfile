@@ -1,5 +1,4 @@
-# https://github.com/jwilder/nginx-proxy
-FROM toshiclick/gitlab-ci-php-base
+FROM catalystsystem/gitlab-ci-php-base:7.4
 
 ENV PHAN_VERSION=0.8.8
 
