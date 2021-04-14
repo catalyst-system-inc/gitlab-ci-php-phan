@@ -1,4 +1,4 @@
-FROM catalystsystem/gitlab-ci-php-base
+FROM catalystsystem/gitlab-ci-php-base:7.4
 
 ENV PHAN_VERSION=2.4.8
 
